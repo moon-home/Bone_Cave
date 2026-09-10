@@ -1,0 +1,19 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# VS Code & IDE generated files
+/.vs/
+/.vscode/*
+!/.vscode/tasks.json
+!/.vscode/launch.json
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
